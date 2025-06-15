@@ -2398,6 +2398,10 @@ input, select, textarea {
 				display: none;
 			}
 
+			section#top header h2 br {
+				display: inline !important;
+			}
+
 			.container {
 				padding: 0 2em 0 2em;
 			}
